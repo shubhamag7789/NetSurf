@@ -1,0 +1,18 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.db
+*.db-wal
+*.db-shm
+dist/
+build/
+.DS_Store
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+Test User
+scratch/
+*.pyc
+build_history.py
